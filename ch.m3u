@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ae" tvg-logo="https://logo.clearbit.com/aetv.com" group-title="Variedades",A&E
+#EXTINF:-1 tvg-id="ae" tvg-logo="https://digitalapi.sky.com.br/logos/channels/138.png" group-title="Variedades",A&E
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/ae.m3u8
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://logo.clearbit.com/axn.com" group-title="Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://digitalapi.sky.com.br/logos/channels/136.png" group-title="Filmes e Séries",AXN
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/axn.m3u8
 
-#EXTINF:-1 tvg-id="adultswim" tvg-logo="https://logo.clearbit.com/adultswim.com" group-title="Animação",Adult Swim
+#EXTINF:-1 tvg-id="adultswim" tvg-logo="https://digitalapi.sky.com.br/logos/channels/138.png" group-title="Animação",Adult Swim
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/adultswim.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://logo.clearbit.com/animalplanet.com" group-title="Documentários",Animal Planet
@@ -191,4 +191,5 @@ https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/e
 
 #EXTINF:-1 tvg-id="off" tvg-logo="https://via.placeholder.com/150?text=OFF" group-title="Variedades",OFF
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/off.m3u8
+
 
