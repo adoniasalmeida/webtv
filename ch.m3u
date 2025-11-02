@@ -21,7 +21,7 @@ https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/e
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantil",Cartoon Network
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cartoonnetwork.m3u8
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cartoonito_logo.svg" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://mondrian.claro.com.br/channels/default/cartoonito.svg" group-title="Infantil",Cartoonito
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cartoonito.m3u8
 
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://logo.clearbit.com/cinemax.com" group-title="Filmes",Cinemax
@@ -191,3 +191,4 @@ https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/e
 
 #EXTINF:-1 tvg-id="off" tvg-logo="https://via.placeholder.com/150?text=OFF" group-title="Variedades",OFF
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/off.m3u8
+
