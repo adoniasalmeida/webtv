@@ -1,0 +1,193 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ae" tvg-logo="https://logo.clearbit.com/aetv.com" group-title="Variedades",A&E
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/ae.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://logo.clearbit.com/axn.com" group-title="Filmes e Séries",AXN
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/axn.m3u8
+
+#EXTINF:-1 tvg-id="adultswim" tvg-logo="https://logo.clearbit.com/adultswim.com" group-title="Animação",Adult Swim
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/adultswim.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://logo.clearbit.com/animalplanet.com" group-title="Documentários",Animal Planet
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Rede_Bandeirantes_logo_2021.svg" group-title="Abertos",Band
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/band.m3u8
+
+#EXTINF:-1 tvg-id="bandnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/BandNews_TV_logo_2023.svg" group-title="Notícias",BandNews
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/bandnews.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantil",Cartoon Network
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cartoonito_logo.svg" group-title="Infantil",Cartoonito
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cartoonito.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://logo.clearbit.com/cinemax.com" group-title="Filmes",Cinemax
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="comedycentral" tvg-logo="https://logo.clearbit.com/comedycentral.com" group-title="Comédia",Comedy Central
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/comedycentral.m3u8
+
+#EXTINF:-1 tvg-id="cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TV_Cultura_logo_2022.svg" group-title="Abertos",TV Cultura
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/cultura.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel" tvg-logo="https://logo.clearbit.com/discovery.com" group-title="Documentários",Discovery Channel
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-id="discoveryid" tvg-logo="https://logo.clearbit.com/investigationdiscovery.com" group-title="Documentários",Discovery ID
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoveryid.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhh" tvg-logo="https://logo.clearbit.com/discoveryplus.com" group-title="Variedades",Discovery Home & Health
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoveryhh.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids" tvg-logo="https://logo.clearbit.com/discoverykids.com" group-title="Infantil",Discovery Kids
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience" tvg-logo="https://logo.clearbit.com/discoveryscience.com" group-title="Documentários",Discovery Science
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-id="discoverytheather" tvg-logo="https://logo.clearbit.com/discovery.com" group-title="Filmes",Discovery Theater
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoverytheather.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-logo="https://logo.clearbit.com/discoveryturbo.com" group-title="Esportes",Discovery Turbo
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="discoveryword" tvg-logo="https://logo.clearbit.com/discovery.com" group-title="Documentários",Discovery World
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/discoveryword.m3u8
+
+#EXTINF:-1 tvg-id="24h_odeiachris" tvg-logo="https://via.placeholder.com/150?text=24h_Odeia_Chris" group-title="Temáticos",24h - Odeia Chris
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/24h_odeiachris.m3u8
+
+#EXTINF:-1 tvg-id="24h_simpsons" tvg-logo="https://via.placeholder.com/150?text=24h_Simpsons" group-title="Temáticos",24h - Simpsons
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/24h_simpsons.m3u8
+
+#EXTINF:-1 tvg-id="fx" tvg-logo="https://logo.clearbit.com/fxnetworks.com" group-title="Séries",FX
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/fx.m3u8
+
+#EXTINF:-1 tvg-id="fish" tvg-logo="https://via.placeholder.com/150?text=Fish_Channel" group-title="Hobby",The Fishing Channel
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/fish.m3u8
+
+#EXTINF:-1 tvg-id="foodnetwork" tvg-logo="https://logo.clearbit.com/foodnetwork.com" group-title="Culinária",Food Network
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/foodnetwork.m3u8
+
+#EXTINF:-1 tvg-id="gnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/GNT_logo.svg" group-title="Variedades",GNT
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/gnt.m3u8
+
+#EXTINF:-1 tvg-id="globonews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/GloboNews_logo.svg" group-title="Notícias",GloboNews
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/globonews.m3u8
+
+#EXTINF:-1 tvg-id="globorj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Globo_RJ_logo.svg" group-title="Abertos",Globo RJ
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/globorj.m3u8
+
+#EXTINF:-1 tvg-id="globosp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Globo_SP_logo.svg" group-title="Abertos",Globo SP
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/globosp.m3u8
+
+#EXTINF:-1 tvg-id="gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Gloob_logo.svg" group-title="Infantil",Gloob
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/gloob.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Filmes e Séries",HBO
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hbo.m3u8
+
+#EXTINF:-1 tvg-id="hbo2" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Filmes e Séries",HBO 2
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hbo2.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Filmes e Séries",HBO Family
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hbofamily.m3u8
+
+#EXTINF:-1 tvg-id="hbomundi" tvg-logo="https://logo.clearbit.com/hbomax.com" group-title="Filmes e Séries",HBO Mundi
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hbomundi.m3u8
+
+#EXTINF:-1 tvg-id="hbopop" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Entretenimento",HBO Pop
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hbopop.m3u8
+
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Filmes e Séries",HBO Plus
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hboplus.m3u8
+
+#EXTINF:-1 tvg-id="hboxtreme" tvg-logo="https://logo.clearbit.com/hbo.com" group-title="Ação",HBO Xtreme
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hboxtreme.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://logo.clearbit.com/hgtv.com" group-title="Variedades",HGTV
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/hgtv.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://logo.clearbit.com/history.com" group-title="Documentários",History Channel
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/history.m3u8
+
+#EXTINF:-1 tvg-id="history2" tvg-logo="https://logo.clearbit.com/history.com" group-title="Documentários",History 2
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/history2.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://logo.clearbit.com/mtv.com" group-title="Música",MTV
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/mtv.m3u8
+
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://logo.clearbit.com/megapix.com" group-title="Filmes",Megapix
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/megapix.m3u8
+
+#EXTINF:-1 tvg-id="multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Multishow_logo.svg" group-title="Variedades",Multishow
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/multishow.m3u8
+
+#EXTINF:-1 tvg-id="nickjunior" tvg-logo="https://logo.clearbit.com/nickjr.com" group-title="Infantil",Nick Jr.
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/nickjunior.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://logo.clearbit.com/nick.com" group-title="Infantil",Nickelodeon
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="record" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/RecordTV_2018_logo.svg" group-title="Abertos",Record
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/record.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/SBT_logo_2014.png" group-title="Abertos",SBT
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/sbt.m3u8
+
+#EXTINF:-1 tvg-id="sonychannel" tvg-logo="https://logo.clearbit.com/sonychannel.com" group-title="Filmes e Séries",Sony Channel
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/sonychannel.m3u8
+
+#EXTINF:-1 tvg-id="space" tvg-logo="https://logo.clearbit.com/space.com" group-title="Séries",Space
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/space.m3u8
+
+#EXTINF:-1 tvg-id="studiouniversal" tvg-logo="https://logo.clearbit.com/universalchannel.com" group-title="Filmes",Studio Universal
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-id="tcm" tvg-logo="https://logo.clearbit.com/tcm.com" group-title="Filmes",TCM
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/tcm.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://logo.clearbit.com/tlc.discovery.com" group-title="Variedades",TLC
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/tlc.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://logo.clearbit.com/tntdrama.com" group-title="Filmes e Séries",TNT
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/tnt.m3u8
+
+#EXTINF:-1 tvg-id="tntnovelas" tvg-logo="https://logo.clearbit.com/tnt.com" group-title="Novelas",TNT Novelas
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/tntnovelas.m3u8
+
+#EXTINF:-1 tvg-id="tntseries" tvg-logo="https://logo.clearbit.com/tntseries.com" group-title="Séries",TNT Series
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/tntseries.m3u8
+
+#EXTINF:-1 tvg-id="telecineaction" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Action
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecineaction.m3u8
+
+#EXTINF:-1 tvg-id="telecinecult" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Cult
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecinecult.m3u8
+
+#EXTINF:-1 tvg-id="telecinefun" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Fun
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecinefun.m3u8
+
+#EXTINF:-1 tvg-id="telecinepipoca" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Pipoca
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecinepipoca.m3u8
+
+#EXTINF:-1 tvg-id="telecinepremium" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Premium
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecinepremium.m3u8
+
+#EXTINF:-1 tvg-id="telecinetouch" tvg-logo="https://logo.clearbit.com/telecine.com" group-title="Filmes",Telecine Touch
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/telecinetouch.m3u8
+
+#EXTINF:-1 tvg-id="universaltv" tvg-logo="https://logo.clearbit.com/universalpictures.com" group-title="Filmes e Séries",Universal TV
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/universaltv.m3u8
+
+#EXTINF:-1 tvg-id="viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/VIVA_logo.svg" group-title="Variedades",Viva
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/viva.m3u8
+
+#EXTINF:-1 tvg-id="warnerchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Warner_TV_logo.svg" group-title="Filmes e Séries",Warner Channel
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/warnerchannel.m3u8
+
+#EXTINF:-1 tvg-id="off" tvg-logo="https://via.placeholder.com/150?text=OFF" group-title="Variedades",OFF
+https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/off.m3u8
