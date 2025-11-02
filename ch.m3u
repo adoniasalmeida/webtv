@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/138.png" group-title="Séries",A&E
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/ae.m3u8
 
-#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/138.png" group-title="Séries",AXN
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/136.png" group-title="Séries",AXN
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/axn.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.br" tvg-logo="hhttps://w7.pngwing.com/pngs/688/779/png-transparent-adult-swim-logo-at-the-movies-thumbnail.png" group-title="Variedades",Adult Swim
@@ -191,3 +191,4 @@ https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/e
 
 #EXTINF:-1 tvg-id="Off.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/35.png" group-title="Variedades",OFF
 https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/fontes/embedtv/off.m3u8
+
