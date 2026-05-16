@@ -1,1874 +1,1871 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml"
 
-#EXTINF:-1 tvg-id="bandceara" tvg-name="BAND CEARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Band_logo_2023.png" group-title="ABERTOS",BAND CEARA
+#EXTINF:-1 tvg-id="Band HD.br" group-title="ABERTOS",Band HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102803.ts
 
-#EXTINF:-1 tvg-id="globoverdesmaresceara" tvg-name="GLOBO VERDES MARES CEARA" tvg-logo="https://logodetimes.com/times/globo/logo-globo-4096.png" group-title="ABERTOS",GLOBO VERDES MARES CEARA
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" group-title="ABERTOS",TV Verdes Mares
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784574.ts
 
-#EXTINF:-1 tvg-id="globoverdesmaresceara" tvg-name="GLOBO VERDES MARES CEARA" tvg-logo="https://logodetimes.com/times/globo/logo-globo-4096.png" group-title="ABERTOS",GLOBO VERDES MARES CEARA
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" group-title="ABERTOS",TV Verdes Mares
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784577.ts
 
-#EXTINF:-1 tvg-id="globoverdesmaresceara" tvg-name="GLOBO VERDES MARES CEARA" tvg-logo="https://logodetimes.com/times/globo/logo-globo-4096.png" group-title="ABERTOS",GLOBO VERDES MARES CEARA
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" group-title="ABERTOS",TV Verdes Mares
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784576.ts
 
-#EXTINF:-1 tvg-id="tvescola" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TV_Escola_logo.png" group-title="ABERTOS",TV ESCOLA
+#EXTINF:-1 tvg-id="TV Escola.br" group-title="ABERTOS",TV Escola
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102410.ts
 
-#EXTINF:-1 tvg-id="tvescola" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TV_Escola_logo.png" group-title="ABERTOS",TV ESCOLA
+#EXTINF:-1 tvg-id="TV Escola.br" group-title="ABERTOS",TV Escola
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102409.ts
 
-#EXTINF:-1 tvg-id="tvescola" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TV_Escola_logo.png" group-title="ABERTOS",TV ESCOLA
+#EXTINF:-1 tvg-id="TV Escola.br" group-title="ABERTOS",TV Escola
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102408.ts
 
-#EXTINF:-1 tvg-id="tvgazeta" tvg-name="TV GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_Gazeta_logo.png" group-title="ABERTOS",TV GAZETA
+#EXTINF:-1 tvg-id="TV Gazeta.br" group-title="ABERTOS",TV Gazeta
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208196.ts
 
-#EXTINF:-1 tvg-id="tvgazeta" tvg-name="TV GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_Gazeta_logo.png" group-title="ABERTOS",TV GAZETA
+#EXTINF:-1 tvg-id="TV Gazeta.br" group-title="ABERTOS",TV Gazeta
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208197.ts
 
-#EXTINF:-1 tvg-id="tvjustiça" tvg-name="TV JUSTIÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Justica_logo.png" group-title="ABERTOS",TV JUSTIÇA
+#EXTINF:-1 tvg-id="TV JUSTIÇA.br" group-title="ABERTOS",TV JUSTIÇA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727297.ts
 
-#EXTINF:-1 tvg-id="tvsenado" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TV_Senado_logo.png" group-title="ABERTOS",TV SENADO
+#EXTINF:-1 tvg-id="TV SENADO.br" group-title="ABERTOS",TV SENADO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102414.ts
 
-#EXTINF:-1 tvg-id="tvsenado" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TV_Senado_logo.png" group-title="ABERTOS",TV SENADO
+#EXTINF:-1 tvg-id="TV SENADO.br" group-title="ABERTOS",TV SENADO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102415.ts
 
-#EXTINF:-1 tvg-id="tvsenado" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TV_Senado_logo.png" group-title="ABERTOS",TV SENADO
+#EXTINF:-1 tvg-id="TV SENADO.br" group-title="ABERTOS",TV SENADO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102416.ts
 
-#EXTINF:-1 tvg-id="sbttvjangadeiro-ceara" tvg-name="SBT TV JANGADEIRO -CEARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SBT_logo_2015.png" group-title="ABERTOS",SBT TV JANGADEIRO -CEARA
+#EXTINF:-1 tvg-id="TV Jangadeiro.br" group-title="ABERTOS",TV Jangadeiro
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91870.ts
 
-#EXTINF:-1 tvg-id="redebrasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ABERTOS",REDE BRASIL
+#EXTINF:-1 tvg-id="Rede Brasil.br" group-title="ABERTOS",Rede Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99365.ts
 
-#EXTINF:-1 tvg-id="redebrasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ABERTOS",REDE BRASIL
+#EXTINF:-1 tvg-id="Rede Brasil.br" group-title="ABERTOS",Rede Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208211.ts
 
-#EXTINF:-1 tvg-id="redebrasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ABERTOS",REDE BRASIL
+#EXTINF:-1 tvg-id="Rede Brasil.br" group-title="ABERTOS",Rede Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208416.ts
 
-#EXTINF:-1 tvg-id="recordtvcidadeceara" tvg-name="RECORD TV CIDADE CEARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RecordTV_logo_2023.png" group-title="ABERTOS",RECORD TV CIDADE CEARA
+#EXTINF:-1 tvg-id="Record TV Fortaleza.br" group-title="ABERTOS",Record TV Fortaleza
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784815.ts
 
-#EXTINF:-1 tvg-id="redetv" tvg-name="REDETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/RedeTV%21_logo_2021.png" group-title="ABERTOS",REDETV
+#EXTINF:-1 tvg-id="RedeTV! HD.br" group-title="ABERTOS",RedeTV! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785204.ts
 
-#EXTINF:-1 tvg-id="redetv" tvg-name="REDETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/RedeTV%21_logo_2021.png" group-title="ABERTOS",REDETV
+#EXTINF:-1 tvg-id="RedeTV! HD.br" group-title="ABERTOS",RedeTV! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102398.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101014.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785139.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479338.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101015.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479339.ts
 
-#EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandsports_logo.png" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" group-title="ESPORTES",BandSports
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101016.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101019.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785148.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479341.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101020.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479342.ts
 
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Combate_logo.png" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101017.ts
 
-#EXTINF:-1 tvg-id="golfchannel" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Golf_Channel_logo.png" group-title="ESPORTES",GOLF CHANNEL
+#EXTINF:-1 tvg-id="Golf Channel.br" group-title="ESPORTES",Golf Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727281.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101021.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785195.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479588.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101022.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479589.ts
 
-#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",OFF
+#EXTINF:-1 tvg-id="Off.br" group-title="ESPORTES",Off
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101023.ts
 
-#EXTINF:-1 tvg-id="redbulltv" tvg-name="RED BULL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",RED BULL TV
+#EXTINF:-1 tvg-id="RED BULL TV" group-title="ESPORTES",RED BULL TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785288.ts
 
-#EXTINF:-1 tvg-id="redbulltv" tvg-name="RED BULL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",RED BULL TV
+#EXTINF:-1 tvg-id="RED BULL TV" group-title="ESPORTES",RED BULL TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727290.ts
 
-#EXTINF:-1 tvg-id="sportv" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV
-http://bmnew26.site:80/live/Saldanha/Capoeira2308/100727.ts
-
-#EXTINF:-1 tvg-id="sportv1" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99013.ts
 
-#EXTINF:-1 tvg-id="sportv1" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479376.ts
 
-#EXTINF:-1 tvg-id="sportv1" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85645.ts
 
-#EXTINF:-1 tvg-id="sportv1" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479377.ts
 
-#EXTINF:-1 tvg-id="sportv1" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99012.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV.br" group-title="ESPORTES",SporTV
+http://bmnew26.site:80/live/Saldanha/Capoeira2308/100727.ts
+
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100701.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85646.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785206.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479369.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85647.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479370.ts
 
-#EXTINF:-1 tvg-id="sportv2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="ESPORTES",SporTV2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85652.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85648.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785207.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479372.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85649.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479373.ts
 
-#EXTINF:-1 tvg-id="sportv3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="ESPORTES",SporTV3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/85653.ts
 
-#EXTINF:-1 tvg-id="sportv4" tvg-name="SPORTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",SPORTV 4
-http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479375.ts
-
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100721.ts
 
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479724.ts
 
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785197.ts
 
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4172735.ts
 
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479725.ts
 
-#EXTINF:-1 tvg-id="premiere1" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 1
+#EXTINF:-1 tvg-id="Premiere FC.br" group-title="ESPORTES",Premiere FC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208390.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100698.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93522.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785198.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479712.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93523.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479713.ts
 
-#EXTINF:-1 tvg-id="premiere2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2.br" group-title="ESPORTES",Premiere 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93538.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100706.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93524.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785199.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479715.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93525.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479716.ts
 
-#EXTINF:-1 tvg-id="premiere3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3.br" group-title="ESPORTES",Premiere 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93539.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100705.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93526.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479718.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93527.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479719.ts
 
-#EXTINF:-1 tvg-id="premiere4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4.br" group-title="ESPORTES",Premiere 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93540.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100704.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785200.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479721.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167111.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479722.ts
 
-#EXTINF:-1 tvg-id="premiere5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5.br" group-title="ESPORTES",Premiere 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93541.ts
 
-#EXTINF:-1 tvg-id="premiere6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6.br" group-title="ESPORTES",Premiere 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100703.ts
 
-#EXTINF:-1 tvg-id="premiere6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6.br" group-title="ESPORTES",Premiere 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93532.ts
 
-#EXTINF:-1 tvg-id="premiere6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6.br" group-title="ESPORTES",Premiere 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93530.ts
 
-#EXTINF:-1 tvg-id="premiere6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6.br" group-title="ESPORTES",Premiere 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785201.ts
 
-#EXTINF:-1 tvg-id="premiere6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6.br" group-title="ESPORTES",Premiere 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93542.ts
 
-#EXTINF:-1 tvg-id="premiere7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7.br" group-title="ESPORTES",Premiere 7
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100702.ts
 
-#EXTINF:-1 tvg-id="premiere7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7.br" group-title="ESPORTES",Premiere 7
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/211453.ts
 
-#EXTINF:-1 tvg-id="premiere7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7.br" group-title="ESPORTES",Premiere 7
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93531.ts
 
-#EXTINF:-1 tvg-id="premiere7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7.br" group-title="ESPORTES",Premiere 7
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785202.ts
 
-#EXTINF:-1 tvg-id="premiere7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7.br" group-title="ESPORTES",Premiere 7
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/93544.ts
 
-#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",Premiere 8
+#EXTINF:-1 tvg-id="Premiere 8.br" group-title="ESPORTES",Premiere 8
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167177.ts
 
-#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",Premiere 8
+#EXTINF:-1 tvg-id="Premiere 8.br" group-title="ESPORTES",Premiere 8
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167176.ts
 
-#EXTINF:-1 tvg-id="universalpremiere" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",UNIVERSAL PREMIERE
-http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479449.ts
-
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100708.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/169012.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3333294.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479359.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91227.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479360.ts
 
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPORTES",ESPN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208402.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100707.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91228.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785158.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479344.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91229.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479345.ts
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Esporte Interativo 2.br" group-title="ESPORTES",Esporte Interativo 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208387.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100696.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91230.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785159.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479347.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91231.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479348.ts
 
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ESPORTES",ESPN 3
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91241.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100715.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91232.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785160.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479350.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91233.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479351.ts
 
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ESPORTES",ESPN 4
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208388.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100717.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208164.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785161.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479353.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91236.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479354.ts
 
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ESPORTES",ESPN 5
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91242.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100716.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91234.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785162.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479356.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91235.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479357.ts
 
-#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ESPORTES",ESPN 6
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91243.ts
 
-#EXTINF:-1 tvg-id="ufc" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="ESPORTES",UFC
+#EXTINF:-1 tvg-id="UFC" group-title="ESPORTES",UFC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4172754.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100697.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784732.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785177.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479289.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784749.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479290.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="HBO",HBO
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784739.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784726.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785175.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479283.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784727.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479284.ts
 
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.br" group-title="HBO",HBO 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784728.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784729.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785176.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479286.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784730.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479287.ts
 
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family HD.br" group-title="HBO",HBO Family HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784731.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784733.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785178.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479291.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784734.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479292.ts
 
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.br" group-title="HBO",HBO Mundi
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784735.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784736.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785179.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479297.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784737.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479298.ts
 
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="HBO Pop.br" group-title="HBO",HBO Pop
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784738.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784740.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785180.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479301.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784741.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479302.ts
 
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.br" group-title="HBO",HBO Signature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784742.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784743.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785181.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479304.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784744.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479305.ts
 
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.br" group-title="HBO",HBO Xtreme
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784745.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784746.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785182.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479294.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784747.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479295.ts
 
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus.br" group-title="HBO",HBO Plus
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784748.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784708.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785210.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479265.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784709.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479266.ts
 
-#EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action.br" group-title="TELECINE",Telecine Action
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784710.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784711.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479268.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784712.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479269.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785211.ts
 
-#EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult.br" group-title="TELECINE",Telecine Cult
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784713.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784714.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479271.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784715.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479272.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785212.ts
 
-#EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun.br" group-title="TELECINE",Telecine Fun
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784716.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784717.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479274.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784718.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479275.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785213.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" group-title="TELECINE",Telecine Pipoca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784719.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100710.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784720.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479277.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784721.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479278.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785214.ts
 
-#EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium.br" group-title="TELECINE",Telecine Premium
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784722.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784723.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479280.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784724.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479281.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785215.ts
 
-#EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="TELECINE",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch.br" group-title="TELECINE",Telecine Touch
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784725.ts
 
-#EXTINF:-1 tvg-id="cinesky01" tvg-name="Cine Sky 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 01
+#EXTINF:-1 tvg-id="Cine Sky 01" group-title="CINE SKY",Cine Sky 01
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456091.ts
 
-#EXTINF:-1 tvg-id="cinesky02" tvg-name="Cine Sky 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 02
+#EXTINF:-1 tvg-id="Cine Sky 02" group-title="CINE SKY",Cine Sky 02
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456092.ts
 
-#EXTINF:-1 tvg-id="cinesky03" tvg-name="Cine Sky 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 03
+#EXTINF:-1 tvg-id="Cine Sky 03" group-title="CINE SKY",Cine Sky 03
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456093.ts
 
-#EXTINF:-1 tvg-id="cinesky04" tvg-name="Cine Sky 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 04
+#EXTINF:-1 tvg-id="Cine Sky 04" group-title="CINE SKY",Cine Sky 04
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456094.ts
 
-#EXTINF:-1 tvg-id="cinesky05" tvg-name="Cine Sky 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 05
+#EXTINF:-1 tvg-id="Cine Sky 05" group-title="CINE SKY",Cine Sky 05
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456095.ts
 
-#EXTINF:-1 tvg-id="cinesky06" tvg-name="Cine Sky 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 06
+#EXTINF:-1 tvg-id="Cine Sky 06" group-title="CINE SKY",Cine Sky 06
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456096.ts
 
-#EXTINF:-1 tvg-id="cinesky07" tvg-name="Cine Sky 07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 07
+#EXTINF:-1 tvg-id="Cine Sky 07" group-title="CINE SKY",Cine Sky 07
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456097.ts
 
-#EXTINF:-1 tvg-id="cinesky08" tvg-name="Cine Sky 08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 08
+#EXTINF:-1 tvg-id="Cine Sky 08" group-title="CINE SKY",Cine Sky 08
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456098.ts
 
-#EXTINF:-1 tvg-id="cinesky09" tvg-name="Cine Sky 09" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 09
+#EXTINF:-1 tvg-id="Cine Sky 09" group-title="CINE SKY",Cine Sky 09
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456099.ts
 
-#EXTINF:-1 tvg-id="cinesky10" tvg-name="Cine Sky 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 10
+#EXTINF:-1 tvg-id="Cine Sky 10" group-title="CINE SKY",Cine Sky 10
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456100.ts
 
-#EXTINF:-1 tvg-id="cinesky11" tvg-name="Cine Sky 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 11
+#EXTINF:-1 tvg-id="Cine Sky 11" group-title="CINE SKY",Cine Sky 11
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456101.ts
 
-#EXTINF:-1 tvg-id="cinesky12" tvg-name="Cine Sky 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 12
+#EXTINF:-1 tvg-id="Cine Sky 12" group-title="CINE SKY",Cine Sky 12
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456102.ts
 
-#EXTINF:-1 tvg-id="cinesky13" tvg-name="Cine Sky 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 13
+#EXTINF:-1 tvg-id="Cine Sky 13" group-title="CINE SKY",Cine Sky 13
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456103.ts
 
-#EXTINF:-1 tvg-id="cinesky14" tvg-name="Cine Sky 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 14
+#EXTINF:-1 tvg-id="Cine Sky 14" group-title="CINE SKY",Cine Sky 14
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456104.ts
 
-#EXTINF:-1 tvg-id="cinesky15" tvg-name="Cine Sky 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="CINE SKY",Cine Sky 15
+#EXTINF:-1 tvg-id="Cine Sky 15" group-title="CINE SKY",Cine Sky 15
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456090.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100712.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208150.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479386.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208151.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479387.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AMC
+#EXTINF:-1 tvg-id="AMC HD.br" group-title="FILMES E SERIES",AMC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208383.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100711.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101974.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785137.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479389.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101975.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479390.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="FILMES E SERIES",AXN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101976.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208146.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785134.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479383.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208147.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479384.ts
 
-#EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",A&E
+#EXTINF:-1 tvg-id="A&E.br" group-title="FILMES E SERIES",A&E
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208382.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101977.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785141.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479392.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101978.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479393.ts
 
-#EXTINF:-1 tvg-id="canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canal Brasil.br" group-title="FILMES E SERIES",Canal Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101979.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101980.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785142.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479421.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101981.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479422.ts
 
-#EXTINF:-1 tvg-id="canalsony" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" group-title="FILMES E SERIES",Sony
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101982.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727325.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785146.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479396.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101984.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479397.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101985.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100725.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101987.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785149.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479537.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101986.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479538.ts
 
-#EXTINF:-1 tvg-id="curta!" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",CURTA!
+#EXTINF:-1 tvg-id="Curta!.br" group-title="FILMES E SERIES",Curta!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101988.ts
 
-#EXTINF:-1 tvg-id="film&arts" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",FILM & ARTS
+#EXTINF:-1 tvg-id="film&arts.br" group-title="FILMES E SERIES",film&arts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101990.ts
 
-#EXTINF:-1 tvg-id="film&arts" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",FILM & ARTS
+#EXTINF:-1 tvg-id="film&arts.br" group-title="FILMES E SERIES",film&arts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479399.ts
 
-#EXTINF:-1 tvg-id="film&arts" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",FILM & ARTS
+#EXTINF:-1 tvg-id="film&arts.br" group-title="FILMES E SERIES",film&arts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101991.ts
 
-#EXTINF:-1 tvg-id="film&arts" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",FILM & ARTS
+#EXTINF:-1 tvg-id="film&arts.br" group-title="FILMES E SERIES",film&arts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479400.ts
 
-#EXTINF:-1 tvg-id="film&arts" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",FILM & ARTS
+#EXTINF:-1 tvg-id="film&arts.br" group-title="FILMES E SERIES",film&arts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101989.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1429684.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785187.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479401.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101998.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479402.ts
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/101996.ts
 
-#EXTINF:-1 tvg-id="sonymovies" tvg-name="SONY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SONY MOVIES
+#EXTINF:-1 tvg-id="Sony Movie.br" group-title="FILMES E SERIES",Sony Movie
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479423.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102005.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785205.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479427.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102006.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479428.ts
 
-#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space.br" group-title="FILMES E SERIES",Space
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102004.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102026.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785220.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785209.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479430.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102027.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479431.ts
 
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.br" group-title="FILMES E SERIES",Studio Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102012.ts
 
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="FILMES E SERIES",TCM
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102016.ts
 
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="FILMES E SERIES",TCM
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479433.ts
 
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="FILMES E SERIES",TCM
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102017.ts
 
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="FILMES E SERIES",TCM
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479434.ts
 
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="FILMES E SERIES",TCM
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102018.ts
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="FILMES E SERIES",TLC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479436.ts
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="FILMES E SERIES",TLC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479437.ts
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="FILMES E SERIES",TLC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208393.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100724.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102019.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785216.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479439.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102020.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479440.ts
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="FILMES E SERIES",TNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102023.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100700.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102021.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785217.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479445.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102022.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479446.ts
 
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="TNT Series.br" group-title="FILMES E SERIES",TNT Series
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102024.ts
 
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas.br" group-title="FILMES E SERIES",TNT Novelas
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208234.ts
 
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas.br" group-title="FILMES E SERIES",TNT Novelas
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479441.ts
 
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas.br" group-title="FILMES E SERIES",TNT Novelas
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208235.ts
 
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas.br" group-title="FILMES E SERIES",TNT Novelas
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479442.ts
 
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas.br" group-title="FILMES E SERIES",TNT Novelas
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208450.ts
 
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="Universal.br" group-title="FILMES E SERIES",Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208204.ts
 
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="Universal.br" group-title="FILMES E SERIES",Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479452.ts
 
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="Universal.br" group-title="FILMES E SERIES",Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208205.ts
 
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="Universal.br" group-title="FILMES E SERIES",Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479453.ts
 
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="Universal.br" group-title="FILMES E SERIES",Universal
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102025.ts
 
-#EXTINF:-1 tvg-id="universalreality" tvg-name="UNIVERSAL REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="Universal Reality.br" group-title="FILMES E SERIES",Universal Reality
+http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479449.ts
+
+#EXTINF:-1 tvg-id="Universal Reality.br" group-title="FILMES E SERIES",Universal Reality
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479450.ts
 
-#EXTINF:-1 tvg-id="universalreality" tvg-name="UNIVERSAL REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="Universal Reality.br" group-title="FILMES E SERIES",Universal Reality
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479451.ts
 
-#EXTINF:-1 tvg-id="usanetwork" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",USA NETWORK
+#EXTINF:-1 tvg-id="USA Network.br" group-title="FILMES E SERIES",USA Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208187.ts
 
-#EXTINF:-1 tvg-id="usanetwork" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",USA NETWORK
+#EXTINF:-1 tvg-id="USA Network.br" group-title="FILMES E SERIES",USA Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785221.ts
 
-#EXTINF:-1 tvg-id="usanetwork" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",USA NETWORK
+#EXTINF:-1 tvg-id="USA Network.br" group-title="FILMES E SERIES",USA Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208188.ts
 
-#EXTINF:-1 tvg-id="usanetwork" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",USA NETWORK
+#EXTINF:-1 tvg-id="USA Network.br" group-title="FILMES E SERIES",USA Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208392.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102029.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102030.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785223.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479455.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102028.ts
 
-#EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="FILMES E SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel.br" group-title="FILMES E SERIES",Warner Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479456.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196480.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785150.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479307.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196487.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479308.ts
 
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" group-title="DISCOVERY",Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196467.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92128.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785185.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479320.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92129.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479321.ts
 
-#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigação Discovery.br" group-title="DISCOVERY",Investigação Discovery
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208433.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208159.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785153.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479323.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92130.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479324.ts
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science.br" group-title="DISCOVERY",Discovery Science
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208404.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208160.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785154.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208161.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208403.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479326.ts
 
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.br" group-title="DISCOVERY",Discovery Theater
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479327.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100709.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92134.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479313.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92136.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479314.ts
 
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.br" group-title="DISCOVERY",Discovery Turbo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92135.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100726.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208157.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785151.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479310.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208158.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479311.ts
 
-#EXTINF:-1 tvg-id="discoveryh&h" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" group-title="DISCOVERY",Discovery Home & Health
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208386.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92138.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785155.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479329.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92139.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479330.ts
 
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discovery World.br" group-title="DISCOVERY",Discovery World
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208405.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94203.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785135.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479317.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94204.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479318.ts
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet.br" group-title="DOCUMENTÁRIOS",Animal Planet
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94205.ts
 
-#EXTINF:-1 tvg-id="dogtv" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",DOG TV
+#EXTINF:-1 tvg-id="DOGTV.br" group-title="DOCUMENTÁRIOS",DOGTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94206.ts
 
-#EXTINF:-1 tvg-id="dogtv" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",DOG TV
+#EXTINF:-1 tvg-id="DOGTV.br" group-title="DOCUMENTÁRIOS",DOGTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94207.ts
 
-#EXTINF:-1 tvg-id="dogtv" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",DOG TV
+#EXTINF:-1 tvg-id="DOGTV.br" group-title="DOCUMENTÁRIOS",DOGTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479316.ts
 
-#EXTINF:-1 tvg-id="dogtv" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",DOG TV
+#EXTINF:-1 tvg-id="DOGTV.br" group-title="DOCUMENTÁRIOS",DOGTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94208.ts
 
-#EXTINF:-1 tvg-id="fashiontvbrasil" tvg-name="FASHIONTV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FASHIONTV BRASIL
+#EXTINF:-1 tvg-id="Fashion TV.br" group-title="DOCUMENTÁRIOS",Fashion TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208162.ts
 
-#EXTINF:-1 tvg-id="fashiontvbrasil" tvg-name="FASHIONTV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FASHIONTV BRASIL
+#EXTINF:-1 tvg-id="Fashion TV.br" group-title="DOCUMENTÁRIOS",Fashion TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479552.ts
 
-#EXTINF:-1 tvg-id="fashiontvbrasil" tvg-name="FASHIONTV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FASHIONTV BRASIL
+#EXTINF:-1 tvg-id="Fashion TV.br" group-title="DOCUMENTÁRIOS",Fashion TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208163.ts
 
-#EXTINF:-1 tvg-id="fashiontvbrasil" tvg-name="FASHIONTV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FASHIONTV BRASIL
+#EXTINF:-1 tvg-id="Fashion TV.br" group-title="DOCUMENTÁRIOS",Fashion TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208406.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94209.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785163.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94210.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94211.tsHGTV
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208170.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785183.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479560.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208171.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479561.ts
 
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="DOCUMENTÁRIOS",FishTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208401.ts
 
-#EXTINF:-1 tvg-id="history2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+#EXTINF:-1 tvg-id="History 2.br" group-title="DOCUMENTÁRIOS",History 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94212.ts
 
-#EXTINF:-1 tvg-id="history2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+#EXTINF:-1 tvg-id="History 2.br" group-title="DOCUMENTÁRIOS",History 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479332.ts
 
-#EXTINF:-1 tvg-id="history2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+#EXTINF:-1 tvg-id="History 2.br" group-title="DOCUMENTÁRIOS",History 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94213.ts
 
-#EXTINF:-1 tvg-id="history2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+#EXTINF:-1 tvg-id="History 2.br" group-title="DOCUMENTÁRIOS",History 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479333.ts
 
-#EXTINF:-1 tvg-id="history2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+#EXTINF:-1 tvg-id="History 2.br" group-title="DOCUMENTÁRIOS",History 2
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94202.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94214.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94215.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/442943.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785184.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479335.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479625.ts
 
-#EXTINF:-1 tvg-id="historychannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History Channel.br" group-title="DOCUMENTÁRIOS",History Channel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94201.ts
 
-#EXTINF:-1 tvg-id="lovenature" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",LOVE NATURE
+#EXTINF:-1 tvg-id="Love Nature.br" group-title="DOCUMENTÁRIOS",Love Nature
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479569.ts
 
-#EXTINF:-1 tvg-id="nhk" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",NHK
+#EXTINF:-1 tvg-id="NHK.br" group-title="DOCUMENTÁRIOS",NHK
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94223.ts
 
-#EXTINF:-1 tvg-id="nhk" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="DOCUMENTÁRIOS",NHK
+#EXTINF:-1 tvg-id="NHK.br" group-title="DOCUMENTÁRIOS",NHK
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94222.ts
 
-#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",Adult Swim
+#EXTINF:-1 tvg-id="Adult Swim.br" group-title="INFANTIL",Adult Swim
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167168.ts
 
-#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",Adult Swim
+#EXTINF:-1 tvg-id="Adult Swim.br" group-title="INFANTIL",Adult Swim
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167169.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94576.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785143.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479460.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94577.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479461.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" group-title="INFANTIL",Cartoon Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94578.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94579.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785144.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479464.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94580.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479465.ts
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="INFANTIL",Cartoonito
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94581.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94566.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785152.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479467.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94567.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479468.ts
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.br" group-title="INFANTIL",Discovery Kids
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94568.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94586.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785173.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479470.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94587.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479471.ts
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" group-title="INFANTIL",Gloob
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94585.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94588.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785174.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479473.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94589.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479474.ts
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="INFANTIL",Gloobinho
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94590.ts
 
-#EXTINF:-1 tvg-id="tooncast" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="INFANTIL",Tooncast
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94592.ts
 
-#EXTINF:-1 tvg-id="tooncast" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="INFANTIL",Tooncast
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479483.ts
 
-#EXTINF:-1 tvg-id="tooncast" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="INFANTIL",Tooncast
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94593.ts
 
-#EXTINF:-1 tvg-id="tooncast" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="INFANTIL",Tooncast
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479484.ts
 
-#EXTINF:-1 tvg-id="tooncast" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="INFANTIL",Tooncast
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94594.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727298.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785219.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479486.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727299.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479487.ts
 
-#EXTINF:-1 tvg-id="tvratimbum" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" group-title="INFANTIL",TV Rá Tim Bum! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208455.ts
 
-#EXTINF:-1 tvg-id="zoomo" tvg-name="ZOOMO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",ZOOMO
+#EXTINF:-1 tvg-id="Zoomoo.br" group-title="INFANTIL",Zoomoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94596.ts
 
-#EXTINF:-1 tvg-id="zoomo" tvg-name="ZOOMO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",ZOOMO
+#EXTINF:-1 tvg-id="Zoomoo.br" group-title="INFANTIL",Zoomoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94597.ts
 
-#EXTINF:-1 tvg-id="zoomo" tvg-name="ZOOMO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",ZOOMO
+#EXTINF:-1 tvg-id="Zoomoo.br" group-title="INFANTIL",Zoomoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94595.ts
 
-#EXTINF:-1 tvg-id="zoomoo" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",ZOOMOO
+#EXTINF:-1 tvg-id="Zoomoo.br" group-title="INFANTIL",Zoomoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479489.ts
 
-#EXTINF:-1 tvg-id="zoomoo" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="INFANTIL",ZOOMOO
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479490.ts
 
-#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97945.ts
 
-#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479492.ts
 
-#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97946.ts
 
-#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479493.ts
 
-#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" group-title="NOTÍCIAS",Bandnews HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97947.ts
 
-#EXTINF:-1 tvg-id="bbc" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BBC
+#EXTINF:-1 tvg-id="BBC News.br" group-title="NOTÍCIAS",BBC News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167170.ts
 
-#EXTINF:-1 tvg-id="bbc" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",BBC
+#EXTINF:-1 tvg-id="BBC News.br" group-title="NOTÍCIAS",BBC News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167171.ts
 
-#EXTINF:-1 tvg-id="canaluol" tvg-name="CANAL UOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CANAL UOL
+#EXTINF:-1 tvg-id="Canal Uol.br" group-title="NOTÍCIAS",Canal Uol
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/776551.ts
 
-#EXTINF:-1 tvg-id="canaluol" tvg-name="CANAL UOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CANAL UOL
+#EXTINF:-1 tvg-id="Canal Uol.br" group-title="NOTÍCIAS",Canal Uol
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479532.ts
 
-#EXTINF:-1 tvg-id="canaluol" tvg-name="CANAL UOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CANAL UOL
+#EXTINF:-1 tvg-id="Canal Uol.br" group-title="NOTÍCIAS",Canal Uol
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/776552.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97948.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785147.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479499.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97949.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479500.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN.br" group-title="NOTÍCIAS",CNN
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208385.ts
 
-#EXTINF:-1 tvg-id="cnnbrasilmoney" tvg-name="CNN BRASIL MONEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL MONEY
+#EXTINF:-1 tvg-id="CNN Brasil Money.br" group-title="NOTÍCIAS",CNN Brasil Money
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208341.ts
 
-#EXTINF:-1 tvg-id="cnnbrasilmoney" tvg-name="CNN BRASIL MONEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL MONEY
+#EXTINF:-1 tvg-id="CNN Brasil Money.br" group-title="NOTÍCIAS",CNN Brasil Money
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208339.ts
 
-#EXTINF:-1 tvg-id="cnnbrasilmoney" tvg-name="CNN BRASIL MONEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL MONEY
+#EXTINF:-1 tvg-id="CNN Brasil Money.br" group-title="NOTÍCIAS",CNN Brasil Money
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479507.ts
 
-#EXTINF:-1 tvg-id="cnnbrasilmoney" tvg-name="CNN BRASIL MONEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN BRASIL MONEY
+#EXTINF:-1 tvg-id="CNN Brasil Money.br" group-title="NOTÍCIAS",CNN Brasil Money
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208340.ts
 
-#EXTINF:-1 tvg-id="cnnespanhol" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN ESPANHOL
+#EXTINF:-1 tvg-id="CNN En Español Latin America.br" group-title="NOTÍCIAS",CNN En Español Latin America
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479502.ts
 
-#EXTINF:-1 tvg-id="cnnespanhol" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN ESPANHOL
+#EXTINF:-1 tvg-id="CNN En Español Latin America.br" group-title="NOTÍCIAS",CNN En Español Latin America
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479503.ts
 
-#EXTINF:-1 tvg-id="cnninternacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN International HD.br" group-title="NOTÍCIAS",CNN International HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479505.ts
 
-#EXTINF:-1 tvg-id="cnninternacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN International HD.br" group-title="NOTÍCIAS",CNN International HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97950.ts
 
-#EXTINF:-1 tvg-id="cnninternacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN International HD.br" group-title="NOTÍCIAS",CNN International HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479506.ts
 
-#EXTINF:-1 tvg-id="cnninternacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN International HD.br" group-title="NOTÍCIAS",CNN International HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208452.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100719.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96575.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785168.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479516.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96576.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479517.ts
 
-#EXTINF:-1 tvg-id="globonews" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News.br" group-title="NOTÍCIAS",Globo News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96758.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100720.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97951.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479519.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97952.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479520.ts
 
-#EXTINF:-1 tvg-id="jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News.br" group-title="NOTÍCIAS",Jovem Pan News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97953.ts
 
-#EXTINF:-1 tvg-id="recordnews" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News.br" group-title="NOTÍCIAS",Record News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97954.ts
 
-#EXTINF:-1 tvg-id="recordnews" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News.br" group-title="NOTÍCIAS",Record News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479521.ts
 
-#EXTINF:-1 tvg-id="recordnews" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News.br" group-title="NOTÍCIAS",Record News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97955.ts
 
-#EXTINF:-1 tvg-id="recordnews" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News.br" group-title="NOTÍCIAS",Record News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479522.ts
 
-#EXTINF:-1 tvg-id="recordnews" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News.br" group-title="NOTÍCIAS",Record News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97956.ts
 
-#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",SBT News
+#EXTINF:-1 tvg-id="SBT News.br" group-title="NOTÍCIAS",SBT News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167315.ts
 
-#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",SBT News
+#EXTINF:-1 tvg-id="SBT News.br" group-title="NOTÍCIAS",SBT News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167316.ts
 
-#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="NOTÍCIAS",SBT News
+#EXTINF:-1 tvg-id="SBT News.br" group-title="NOTÍCIAS",SBT News
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167317.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99935.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785136.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479525.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99936.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479526.ts
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ARTE 1
+#EXTINF:-1 tvg-id="Arte 1.br" group-title="VARIEDADES",Arte 1
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99934.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99937.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785140.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479528.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99938.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479529.ts
 
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",BIS
+#EXTINF:-1 tvg-id="BIS HD.br" group-title="VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99939.ts
 
-#EXTINF:-1 tvg-id="discoverytlc" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",DISCOVERY TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="VARIEDADES",TLC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99961.ts
 
-#EXTINF:-1 tvg-id="discoverytlc" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",DISCOVERY TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="VARIEDADES",TLC
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99962.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99943.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785157.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479542.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99944.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479543.ts
 
-#EXTINF:-1 tvg-id="e!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="E!.br" group-title="VARIEDADES",E!
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99945.ts
 
-#EXTINF:-1 tvg-id="eurochannel" tvg-name="EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",EUROCHANNEL
+#EXTINF:-1 tvg-id="Eurochannel.br" group-title="VARIEDADES",Eurochannel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727315.ts
 
-#EXTINF:-1 tvg-id="eurochannel" tvg-name="EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",EUROCHANNEL
+#EXTINF:-1 tvg-id="Eurochannel.br" group-title="VARIEDADES",Eurochannel
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727314.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99946.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785164.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479553.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99947.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479554.ts
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food Network.br" group-title="VARIEDADES",Food Network
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99948.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100713.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99949.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479557.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99950.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479558.ts
 
-#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="VARIEDADES",GNT
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99951.ts
 
-#EXTINF:-1 tvg-id="idealtv" tvg-name="IDEAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",IDEAL TV
+#EXTINF:-1 tvg-id="Ideal TV.br" group-title="VARIEDADES",Ideal TV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727282.ts
 
-#EXTINF:-1 tvg-id="istv" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",ISTV
+#EXTINF:-1 tvg-id="ISTV.br" group-title="VARIEDADES",ISTV
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479563.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99953.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785186.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479564.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99954.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479565.ts
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" group-title="VARIEDADES",Lifetime Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99952.ts
 
-#EXTINF:-1 tvg-id="like" tvg-name="LIKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIKE
+#EXTINF:-1 tvg-id="LIKE.br" group-title="VARIEDADES",LIKE
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479567.ts
 
-#EXTINF:-1 tvg-id="like" tvg-name="LIKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",LIKE
+#EXTINF:-1 tvg-id="LIKE.br" group-title="VARIEDADES",LIKE
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479568.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727284.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785188.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479571.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727285.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479572.ts
 
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MODO VIAGEM
+#EXTINF:-1 tvg-id="Modo Viagem.br" group-title="VARIEDADES",Modo Viagem
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102000.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99957.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785191.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479581.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99958.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479582.ts
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MULTISHOW
+#EXTINF:-1 tvg-id="Multishow.br" group-title="VARIEDADES",Multishow
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99959.ts
 
-#EXTINF:-1 tvg-id="musicboxbrasil" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MUSIC BOX BRASIL
+#EXTINF:-1 tvg-id="Music Box Brasil.br" group-title="VARIEDADES",Music Box Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727288.ts
 
-#EXTINF:-1 tvg-id="musicboxbrasil" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MUSIC BOX BRASIL
+#EXTINF:-1 tvg-id="Music Box Brasil.br" group-title="VARIEDADES",Music Box Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479584.ts
 
-#EXTINF:-1 tvg-id="musicboxbrasil" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MUSIC BOX BRASIL
+#EXTINF:-1 tvg-id="Music Box Brasil.br" group-title="VARIEDADES",Music Box Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727289.ts
 
-#EXTINF:-1 tvg-id="musicboxbrasil" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MUSIC BOX BRASIL
+#EXTINF:-1 tvg-id="Music Box Brasil.br" group-title="VARIEDADES",Music Box Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479585.ts
 
-#EXTINF:-1 tvg-id="musicboxbrasil" tvg-name="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",MUSIC BOX BRASIL
+#EXTINF:-1 tvg-id="Music Box Brasil.br" group-title="VARIEDADES",Music Box Brasil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99960.ts
 
-#EXTINF:-1 tvg-id="primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",PRIME BOX BRAZIL
+#EXTINF:-1 tvg-id="Prime Box Brazil.br" group-title="VARIEDADES",Prime Box Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208359.ts
 
-#EXTINF:-1 tvg-id="sabor&arte" tvg-name="SABOR & ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",SABOR & ARTE
+#EXTINF:-1 tvg-id="Sabor & Arte.br" group-title="VARIEDADES",Sabor & Arte
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479599.ts
 
-#EXTINF:-1 tvg-id="sabor&arte" tvg-name="SABOR & ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",SABOR & ARTE
+#EXTINF:-1 tvg-id="Sabor & Arte.br" group-title="VARIEDADES",Sabor & Arte
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479600.ts
 
-#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",SYFY
+#EXTINF:-1 tvg-id="Syfy.br" group-title="VARIEDADES",Syfy
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479601.ts
 
-#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",SYFY
+#EXTINF:-1 tvg-id="Syfy.br" group-title="VARIEDADES",Syfy
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479602.ts
 
-#EXTINF:-1 tvg-id="tracebrazuca" tvg-name="TRACE BRAZUCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",TRACE BRAZUCA
+#EXTINF:-1 tvg-id="Trace Brazuca.br" group-title="VARIEDADES",Trace Brazuca
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208420.ts
 
-#EXTINF:-1 tvg-id="travelboxbrasil" tvg-name="TRAVEL BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",TRAVEL BOX BRASIL
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" group-title="VARIEDADES",Travel Box Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727292.ts
 
-#EXTINF:-1 tvg-id="travelboxbrasil" tvg-name="TRAVEL BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",TRAVEL BOX BRASIL
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" group-title="VARIEDADES",Travel Box Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479606.ts
 
-#EXTINF:-1 tvg-id="travelboxbrasil" tvg-name="TRAVEL BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",TRAVEL BOX BRASIL
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" group-title="VARIEDADES",Travel Box Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99963.ts
 
-#EXTINF:-1 tvg-id="travelboxbrasil" tvg-name="TRAVEL BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",TRAVEL BOX BRASIL
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" group-title="VARIEDADES",Travel Box Brazil
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479607.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100699.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99964.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785222.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479615.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99966.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479616.ts
 
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="VIVA.br" group-title="VARIEDADES",VIVA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99967.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99968.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785224.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479380.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99969.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479381.ts
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_placeholder.png" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WooHoo.br" group-title="VARIEDADES",WooHoo
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99970.ts
 
